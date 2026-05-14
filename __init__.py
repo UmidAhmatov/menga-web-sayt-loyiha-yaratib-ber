@@ -1,1 +1,1 @@
-"""Index interaction code"""
+"""Tests for the Maxway project."""
